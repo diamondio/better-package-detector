@@ -5,3 +5,4 @@ build/
 debug/
 coverage/
 .DS_Store
+test.js
