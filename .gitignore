@@ -1,0 +1,7 @@
+bower_components/
+node_modules/
+data/
+build/
+debug/
+coverage/
+.DS_Store

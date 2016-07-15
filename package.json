@@ -1,0 +1,28 @@
+{
+  "name": "better-package-detector",
+  "version": "1.0.0",
+  "description": "OSX package detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diamondio/better-package-detector.git"
+  },
+  "keywords": [
+    "package",
+    "detector",
+    "osx",
+    "apple"
+  ],
+  "author": "Diamond Inc. <ops@diamond.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diamondio/better-package-detector/issues"
+  },
+  "homepage": "https://github.com/diamondio/better-package-detector",
+  "dependencies": {
+    "child-process-parser": "^1.0.0"
+  }
+}
