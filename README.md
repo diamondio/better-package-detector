@@ -5,7 +5,7 @@ Package detector for OSX. Tells you whether or not a given path is a package bas
 
 ### Getting Started
 
-```js
+```bash
 npm install --save better-package-detector
 ```
 
